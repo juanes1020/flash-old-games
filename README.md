@@ -1,1 +1,1 @@
-# flash-old-games
+# Collection of old flash games
